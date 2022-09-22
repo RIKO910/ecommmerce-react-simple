@@ -8,7 +8,7 @@ const Product = (props) => {
     
     const {name,img,seller,price,ratings}=props.product;
     
-    console.log(props)
+    // console.log(props)
     return (
         <div className='product'>
             <img src={img} alt="" />

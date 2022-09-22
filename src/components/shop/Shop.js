@@ -33,7 +33,7 @@ const Shop = () => {
             </div>
             <div className="cart-container">
                 {/* <p>Selected cart:{cart.length}</p> */}
-                <Cart cart={cart.length}></Cart>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );
