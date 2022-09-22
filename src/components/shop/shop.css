@@ -15,3 +15,15 @@
         grid-template-columns: repeat(2,1fr);
     }
 }
+/* cart details just only simple design */
+.cart-container{
+    margin-top: 100px;
+    background-color: rgb(225,153,0,0.3);
+
+}
+.cart-container p{
+    color: blue;
+    background-color: beige;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
